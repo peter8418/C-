@@ -1,0 +1,6 @@
+﻿  Q2.cpp
+C:\han\ch03\ch03\Q2.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\han\ch03\ch03\Q2.cpp(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\han\ch03\ch03\Q2.cpp(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\han\ch03\ch03\Q2.cpp(5,8): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  ch03.vcxproj -> C:\han\ch03\x64\Debug\ch03.exe
