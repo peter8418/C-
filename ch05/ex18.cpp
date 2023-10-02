@@ -87,12 +87,18 @@ int main() {
 			   pval = &bit[2];
 			   scanf_s("%d", pval);;
 		   case 4:
+			   /*
 			   pval = &bit[0];
 			   printf("비트코인 %d\n",*pval);
 			   pval = &bit[1];
 			   printf("이더코인 %d\n", *pval);
 			   pval = &bit[2];
 			   printf("도지코인 %d\n", *pval);
+			   */
+			   for (int i = 0; i < 3; i++) {
+				   pval = &bit[i];
+				   printf("%d 코인 %d\n",i , *pval);
+			   }
 			   break;
 		   case 5: 
 		      return 0;
